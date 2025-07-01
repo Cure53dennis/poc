@@ -1,2 +1,2 @@
-print(1);
+console.log("aaaa");
 console.log(x);
